@@ -21,10 +21,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </div>
-  
-  <!-- counter -->
-  <img src="https://komarev.com/ghpvc/?username=Shwe2299&style=flat-square&color=blue" alt=""/>
-  
+  <!-- counter
+  <img src="https://komarev.com/ghpvc/?username=Shwe2299&style=flat-square&color=blue" alt=""/> -->
   <h1>
   Hello There
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px"/>
@@ -40,8 +38,9 @@ Here are some ideas to get you started:
 - :woman_student: I am a fresh graduate who is keen to learn new technology.
 - <!-- :eyes: I am looking for my first job! -->
 - 
----
 
+
+---
 ### :hammer_and_wrench: Language and Tools :
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title = "Canva" alt="Canva" width="40" height="40"/>&nbsp;
