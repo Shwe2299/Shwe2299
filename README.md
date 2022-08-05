@@ -16,17 +16,18 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/shwe-eaindray-htike-a22773126/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/shwe-eaindray-htike-a22773126/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+    </div>
+  
   <!-- counter -->
-<img src="https://komarev.com/ghpvc/?username=Shwe2299&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Shwe2299&style=flat-square&color=blue" alt=""/>
   
   <h1>
   Hello There
-    <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px"/>
   </h1>
 
 </div>
@@ -34,7 +35,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-:woman_technologist: About Me:Wave: : 
+---
+### :woman_technologist: About Me:Wave: : 
 - :woman_student: I am a fresh graduate who is keen to learn new technology.
 - <!-- :eyes: I am looking for my first job! -->
 - 
@@ -66,6 +68,7 @@ Here are some ideas to get you started:
   <img src = "" title = "" alt="" width="40" height="40"/>&nbsp;
   <img src = "" title = "" alt="" width="40" height="40"/>&nbsp; 
   -->
+
 ---
 ### :fire: My Stats :
 
