@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 
 ---
 ### :fire: My Stats :
-![GitHub Views](https://komarev.com/ghpvc/?username=<username>)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shwe2299)](https://git.io/streak-stats)
 
  </div> 
