@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/shwe-eaindray-htike-a22773126/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Shwe2299&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px"/>
+</h1>
+</div>
