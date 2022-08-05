@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- BLOG-POST-LIST:START -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
     <div id="badges">
@@ -72,4 +73,8 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shwe2299)](https://git.io/streak-stats)
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shwe2299)](https://github.com/anuraghazra/github-readme-stats)
+
  </div> 
+<!-- BLOG-POST-LIST:END -->
