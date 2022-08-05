@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 
 ---
 ### :fire: My Stats :
+![GitHub Views](https://komarev.com/ghpvc/?username=<username>)
 
 
  </div> 
