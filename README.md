@@ -25,13 +25,13 @@ Here are some ideas to get you started:
   <!-- counter
   <img src="https://komarev.com/ghpvc/?username=Shwe2299&style=flat-square&color=blue" alt=""/> -->
   <h1>
-  Hello There
+  Hello
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px"/>
   </h1>
 
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+ <!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/> -->
 </div>
 
 ---
