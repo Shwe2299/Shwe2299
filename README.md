@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 ---
 ### :woman_technologist: About Me : 
+- I am lazy...
 - <!--:woman_student: I am a fresh graduate who is keen to learn new technology.!-->
 - <!-- :eyes: I am looking for my first job! -->
 - <!--I like chocolates !-->
-- I am lazy...
 
 
 ---
